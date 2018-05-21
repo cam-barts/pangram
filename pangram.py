@@ -4,7 +4,6 @@ def is_pangram(sentence):
             return False
     return True
 
-# #boolen bullshit
 # test = "qwertyuiolkjhgfdsazxcvvbnm"
 # def panderin(test):
 #     for i in "qwertyuiopasdfghjklzxcvbnm":
